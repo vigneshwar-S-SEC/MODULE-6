@@ -23,16 +23,11 @@ Write a C program to calculate the area and perimeter of a circle for a given ra
 7. Declare a constant floating-point variable pi and initialize it to 3.14.
 
 8. Calculate the Area of the Circle using the formula: 
-
-            \[ 
-                $$Area = \pi \times r^2$$ 
-            ]\
+              $$Area = \pi \times r^2$$ 
 9. In the program, this is calculated as pi * (*r) * (*r).
 
 10. Calculate the Perimeter of the Circle using the formula: 
-        \[
             $$Perimeter = 2 \times \pi \times r$$
-        ]\
 11. In the program, this is calculated as 2 * pi * (*r).
 
 12. Print the Area and Perimeter, formatted to two decimal places.
@@ -279,11 +274,11 @@ The C program to accept cricket batting information using structures and calcula
 
 Write a C program using a structure to store customer details (number, previous reading, current reading) for 3 electricity board (EB) customers. The program must calculate the total units consumed and the final bill amount based on the following slab rates:
 
-    - $0$ to $100$ units: $\text{Rs } 2$ per unit
+    $0$ to $100$ units: $\text{Rs } 2$ per unit
 
-    - $101$ to $200$ units: $\text{Rs } 3$ per unit
+    $101$ to $200$ units: $\text{Rs } 3$ per unit
 
-    - Above $200$ units: $\text{Rs } 5$ per unit
+    Above $200$ units: $\text{Rs } 5$ per unit
 
 ## Algorithm:
 
